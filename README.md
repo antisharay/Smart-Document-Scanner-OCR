@@ -1,8 +1,3 @@
-# Smart Document Scanner using OCR
-
-This project extracts printed text from images using Optical Character Recognition (OCR).  
-It uses OpenCV for image preprocessing (grayscale and thresholding) to improve text clarity.  
-Tesseract OCR is applied to convert images into machine-readable text.  
-The system compares accuracy across different preprocessing techniques.  
-Results show that preprocessing significantly improves OCR performance.  
-Built using Python, OpenCV, and Pytesseract.  
+[README.md](https://github.com/user-attachments/files/26385619/README.md)
+# OCR_Project
+Smart Document Scanner with OCR for extracting text from printed documents and analyzing accuracy using preprocessing techniques.
